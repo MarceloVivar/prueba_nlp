@@ -1,7 +1,8 @@
 pandas 
 numpy 
 spacy
-spacy.lang.en.stop_words 
+spacy.lang.en
+stop_words 
 STOP_WORDS
 string 
 punctuation
