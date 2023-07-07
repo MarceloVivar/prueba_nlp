@@ -1,0 +1,17 @@
+pandas 
+numpy 
+spacy
+spacy.lang.en.stop_words 
+STOP_WORDS
+string 
+punctuation
+nltk
+matplotlib.pyplot 
+heapq 
+nlargest
+requests
+seaborn 
+wordcloud 
+WordCloud
+io 
+BytesIO
