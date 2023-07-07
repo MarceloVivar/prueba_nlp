@@ -2,6 +2,7 @@ streamlit==0.84.2
 pandas
 numpy==1.21.0
 spacy==3.0.6
+click
 nltk==3.6.3
 matplotlib==3.4.3
 requests==2.26.0
