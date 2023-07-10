@@ -9,4 +9,5 @@ matplotlib
 requests
 seaborn
 wordcloud
+spacy_streamlit
 
