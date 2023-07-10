@@ -40,6 +40,7 @@ def main():
     if texto:
     
         nlp = spacy.load('es_core_news_sm')
+        nlp = es_core_news_sm.load()
         doc = nlp(texto)        
 
         if freq:
