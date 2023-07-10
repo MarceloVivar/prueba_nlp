@@ -9,4 +9,4 @@ matplotlib
 requests
 seaborn
 wordcloud
-es_core_news_md == 3.6.0
+es_core_news_md 
