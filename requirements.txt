@@ -12,3 +12,4 @@ matplotlib
 requests
 seaborn
 wordcloud
+https://github.com/explosion/spacy-models/blob/master/meta/es_core_news_sm-3.6.0.json#egg=es_core_news_sm
