@@ -12,4 +12,5 @@ matplotlib
 requests
 seaborn
 wordcloud
-https://github.com/explosion/spacy-models/blob/master/meta/es_core_news_sm-3.6.0.tar.gz#egg=es_core_news_sm
+https://github.com/MarceloVivar/prueba_nlp/blob/main/es_core_news_sm-3.6.0-py3-none-any.whl
+
