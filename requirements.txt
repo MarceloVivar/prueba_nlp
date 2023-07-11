@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-spacy==3.1.7
+spacy
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
-spacy-streamlit==1.0.6
+spacy-streamlit
 click
 typer
 nltk
